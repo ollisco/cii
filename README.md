@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+# 2-CI
+
+# =======
+
+> > > > > > > main
+
 # 2-CI
 
 ## File structure
@@ -36,9 +45,9 @@
 
 `python3 -m pip install -r requirements.txt`
 
-### 4. Run the program
+### 4. Run the server
 
-`python3 main.py`
+`uvicorn main:app --reload`
 
 ## Code style
 
@@ -96,3 +105,8 @@ Love Lindgren:
 Siham Shahoud:
 
 Selma Özdere:
+<<<<<<< HEAD
+
+> > > > > > > # a8f4ada (feat: add fastapi server that formats repository on webhook #3)
+> > > > > > >
+> > > > > > > main
