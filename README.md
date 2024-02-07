@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-# 2-CI
-
-# =======
-
-> > > > > > > main
-
 # 2-CI
 
 ## File structure
@@ -105,8 +96,3 @@ Love Lindgren:
 Siham Shahoud:
 
 Selma Özdere:
-<<<<<<< HEAD
-
-> > > > > > > # a8f4ada (feat: add fastapi server that formats repository on webhook #3)
-> > > > > > >
-> > > > > > > main
