@@ -17,25 +17,10 @@
 ├── docs/                       # Documentation
 │   └── README.md               # Technical documentatoion
 │
-├── main.py                     # Main entry point of the program
+├── main.py                 	# Main entry point of the program
 ├── requirements.txt            # Project dependencies
 └── README.md                   # This file. General project documentation
 ```
-
-## Prerequisites
-
-### 1. Install pyenv
-
-`brew install pyenv`
-
-### 2 Update PATH environment
-
-`export PATH="$HOME/.pyenv/shims:$PATH"`
-
-### 3 Install and set local python version
-
-`pyenv install 3.8.10`
-`pyenv local 3.8.10`
 
 ## Quickstart
 
