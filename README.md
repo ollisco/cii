@@ -41,19 +41,23 @@
 
 ### 1. Create a virtual envrionment called `venv`
 
-`python3 -m venv venv`
+Mac/Linux: `python3 -m venv venv`
+Windows:    `python -m venv venv`
 
 ### 2. Activate the venv
 
-`source venv/bin/activate`
+Mac/Linux: `source venv/bin/activate`
+Windows:   `venv/bin/Activate.ps1`
 
 ### 3. Install the dependencies
 
-`python3 -m pip install -r requirements.txt`
+Mac/Linux:`python3 -m pip install -r requirements.txt`
+Windows:  `python -m pip install -r requirements.txt`
 
 ### 4. Run the server
 
-`uvicorn main:app --reload`
+Mac/Linux:  `uvicorn main:app --reload`
+Windows:    `uvicorn main:app --reload`
 
 ## Code style
 
@@ -63,7 +67,9 @@ Black is used for formatting the procjet. Format the code by using `black .`
 
 ## Running the test suite
 
-Run `pystest` from the root
+Mac/Linux: Run `pytest` from the root
+Windows:Run `pytest` from the root
+
 
 ## How to contribute
 
@@ -97,8 +103,10 @@ TODO...
 
 - Olle Jenrström
 - Love Lindgren
-- Selma Özdere
+- Selma Özdere¨
+- Albin Wikström Kempe
 - Siham Shahoud
+
 
 # Statement of contribution
 
@@ -108,6 +116,8 @@ Olle Jenrström:
 
 Love Lindgren:
 
-Siham Shahoud:
-
 Selma Özdere:
+
+Albin Wikström Kempe:
+
+Siham Shahoud:
